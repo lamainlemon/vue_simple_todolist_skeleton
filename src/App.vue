@@ -1,3 +1,4 @@
+
 <template>
     <div class="root">
         {{test}}
@@ -9,7 +10,7 @@
     export default {
         data: function () {
             return {
-                test: 'Hello world'
+                test: 'Hello!!!!!!'
             }
         },
 
